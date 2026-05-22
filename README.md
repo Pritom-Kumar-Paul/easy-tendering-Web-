@@ -70,13 +70,13 @@ E-tendering/
 ### 🧑 Vendor Dashboard
 ![Vendor Dashboard](https://github.com/user-attachments/assets/5ae9e7e7-6f60-4bd9-8f0f-ef7772ae5358)
 
-### 📊 Tender List
+### 📊 Admin Panel
 ![Tender List](https://github.com/user-attachments/assets/156c2ce5-b7d5-450c-807a-0ffeb57f96c8)
 
 ### 📑 Bid Management
 ![Bid Management](https://github.com/user-attachments/assets/58a7e1cb-5821-4af3-8fa2-75472d7cde47)
 
-### ⚙️ Admin Panel
+### ⚙️ Tender List
 ![Admin Panel](https://github.com/user-attachments/assets/b143d7aa-196d-4cc1-b9e3-03604fe52a4e)
 
 ---
