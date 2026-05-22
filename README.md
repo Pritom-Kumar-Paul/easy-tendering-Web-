@@ -65,18 +65,18 @@ E-tendering/
 ![Homepage](https://github.com/user-attachments/assets/e2720fca-0a3d-49f2-99b4-b4ea19b22ceb)
 
 ### 🔐 Login Page
-![Login](https://github.com/user-attachments/assets/6db7c438-849b-4a31-ba46-8401759ceb81)
-
-### 🧑 Vendor Dashboard
-![Vendor Dashboard](https://github.com/user-attachments/assets/5ae9e7e7-6f60-4bd9-8f0f-ef7772ae5358)
-
-### 📊 Admin Panel
 ![Tender List](https://github.com/user-attachments/assets/156c2ce5-b7d5-450c-807a-0ffeb57f96c8)
 
-### 📑 Bid Management
+### 🔐 Registation Page
+![Login](https://github.com/user-attachments/assets/6db7c438-849b-4a31-ba46-8401759ceb81)
+
+### 🧑 Contact Page
+![Vendor Dashboard](https://github.com/user-attachments/assets/5ae9e7e7-6f60-4bd9-8f0f-ef7772ae5358)
+
+### 📑 Admin Panel
 ![Bid Management](https://github.com/user-attachments/assets/58a7e1cb-5821-4af3-8fa2-75472d7cde47)
 
-### ⚙️ Tender List
+### ⚙️ Create Tender
 ![Admin Panel](https://github.com/user-attachments/assets/b143d7aa-196d-4cc1-b9e3-03604fe52a4e)
 
 ---
